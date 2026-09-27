@@ -1,6 +1,6 @@
 {
-  "activeDemoModeIos": false,
-  "activeDemoModeAndroid": false,
+  "activeDemoModeIos": true,
+  "activeDemoModeAndroid": true,
   "video_1": "https://www.youtube.com/watch?v=dmbOKxEQ8Q4",
   "video_2": "https://www.youtube.com/watch?v=dmbOKxEQ8Q4",
   "video_3": "https://www.youtube.com/watch?v=dmbOKxEQ8Q4",
